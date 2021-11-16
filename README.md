@@ -16,10 +16,10 @@ The purpose of the project is to use Pytorch funtionality in cloud service Amazo
 
 ## Getting Started
 
-Step1. Login AWS consol
-Step2. Nagivate to Amazon SageMaker
-Step3. Create jupyter notebook instance
-Step4. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/))
+1. Login AWS consol
+2. Nagivate to Amazon SageMaker
+3. Create jupyter notebook instance
+4. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/))
     
 ## License & copyright
 @ Hongxia Hou
