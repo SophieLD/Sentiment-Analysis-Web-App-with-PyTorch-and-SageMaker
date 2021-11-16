@@ -1,5 +1,5 @@
 # Sentiment-Analysis-Web-App-with-PyTorch-and-SageMaker
-## *SageMaker Deployment Project
+### <font color=gray>SageMaker Deployment Project</font>
 
 This project is a part of the Udacity [Machine Leaning Engineer Nanodegree Program](https://www.udacity.com/courses/all). This project assumes some familiarity with SageMaker.
 
